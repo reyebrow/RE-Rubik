@@ -1,0 +1,10 @@
+name = RE Rubik
+description = Raised Eyebrow Rubik changes
+base theme = rubik
+core = 7.x
+engine = phptemplate
+
+stylesheets[screen][] = re_style.css
+
+; Support shortcut module links
+settings[shortcut_module_link] = 1
